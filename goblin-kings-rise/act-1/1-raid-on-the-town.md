@@ -22,5 +22,11 @@ If Greg Thompson is still alive, he thanks the players for helping and asks if t
 
 >If Greg is dead, the players can find a note about the potential location of his property on his corpse or the corpse of a slain goblin.
 
+Before they can leave, townspeople return to cheer and offer thanks to the characters. Admist the cheering, the characters hear a voice in their ears but when the characters look around they do not see anything or anyone suspicous.
+
+>Admist the crowd, you hear a voice in your ear. Despite the cheers and revelry, the voice remains crystal clear and its message is unmistakable. It warns...
+>
+>"Do not meddle in affairs that are not your own. There will be no second warning."
+{.read}
 ### Map
 ![Riverdale Town Map](./maps/map-riverdale.svg)
