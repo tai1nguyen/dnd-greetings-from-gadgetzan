@@ -78,7 +78,7 @@ The southern door can only be opened from the other side and it leads to the for
 
 The eastern door is stuck open and leads to the dinning hall (area 3).
 
->A chest containing 15 (3d10) gold pieces, 3 (1d6) vials of acid, and 2 (1d4) potions of healing sit under some blankets.
+>A chest containing 3d10 gold pieces, 1d6 vials of acid, and 2 1d4 potions of healing sit under some blankets.
 
 ### Map
 ![Goblin Storage Crypt Map](./maps/map-goblin-storage-crypt.svg)
@@ -93,4 +93,4 @@ The characters are greeted with cheers from the citizenry when they return to to
 
 >If the characters left Death's Bane at the crypt or somehow lost it, Greg will be dejected and depressed.
 
-The characters are then invited to a dinner with **Kelly Kensey**, the town mayor, later that night. At this point the characters have the oppurtunity to rest and explore the town. The point of the dinner is to have Kensey press the characters for assistance in finding out who the goblin king is and why these attacks are happening.
+The characters are then invited to a dinner with **Kelly Kensey**, the town mayor, later that night. At this point the characters have the oppurtunity to rest and explore the town. The point of the dinner is to have Kensey press the characters for assistance in finding out who the goblin king is and why these attacks are happening. She informs them about rumors of an exile from the goblin kings tribe who may know what he is plotting. The rumors all say that the exile was last seen heading towards an abandoned mining two to the east.

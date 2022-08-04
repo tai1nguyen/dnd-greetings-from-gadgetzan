@@ -1,5 +1,5 @@
 name: Maps
 slug: gkr-act-1-maps
-order: 5
+order: 1
 include-in: files
 copy-files: true
