@@ -22,5 +22,5 @@ If Greg Thompson is still alive, he thanks the players for helping and asks if t
 
 >If Greg is dead, the players can find a note about the potential location of his property on his corpse or the corpse of a slain goblin.
 
-### Town Map
-![Riverdale Town Map](./maps/map-riverdale.png)
+### Map
+![Riverdale Town Map](./maps/map-riverdale.svg)
