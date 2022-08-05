@@ -10,7 +10,7 @@ All governments officially recognize goblin neutrality in the city, and for thos
 The **Gadgetzan Times** adventure module follows the characters as they try to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the rabble or any enemy of one of the gangs, anything is possible in Gadgetzan.
 
 ### Timeline
->**Goblin King's Rise**
+>**Goblin King Rises**
 {.text-center}
 >
 >The characters help a small frontier town resolve their goblin problem and inadvertently get involved with a much bigger threat.
@@ -22,7 +22,7 @@ The **Gadgetzan Times** adventure module follows the characters as they try to n
 >The characters meet Xanthar and are forced to help him expand his empire in order to repay their debts.
 {.flowchart-with-link}
 
->**Turf War**
+>**Turf War Escalation**
 {.text-center}
 >
 >A rival organization threatens Xanthar's gripe on the city of Gadgetzan and must be dealt with.

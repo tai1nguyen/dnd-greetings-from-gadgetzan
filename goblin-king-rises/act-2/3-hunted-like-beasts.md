@@ -36,6 +36,6 @@ If the characters do not agree, both Duzurg and his worg attack. If they agree a
 ### Conclusion
 The characters escape the Beast Trapper clan and arrive at the outskirts of the town. They are exhausted but push on to get Krel to safety. Unfortunately, Krel stumbles and reveals that he has been wounded by the Beast Trapper clan during their escape. The wound was made with necrotic energies and cannot be healed by normal means.
 
-Krel thanks the characters and tells them that he knows that they had a hand in clearing out the goblins storage crypt. He warns that the Goblin King will be planning to take the town soon in order to save face and maintain his position as sovereign. Krel advises that the characters head back to town and help prepare their defenses.
+Krel thanks the characters and tells them that he knows that they had a hand in clearing out the goblins storage crypt. He warns that the Goblin King will be planning to attack the town as soon as possible in order to save face and maintain his position as sovereign. Krel advises that the characters head back to town and help prepare their whatever defenses they can.
 
 With his last breath, Krel provides the players with a map detailing the location of the Goblin King's fortress.
