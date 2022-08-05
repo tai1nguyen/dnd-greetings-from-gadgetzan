@@ -1,13 +1,13 @@
 ![Greetings from Gadgetzan](cover.jpg){.size-cover}
 
 # Introduction
-Rising out of the northern deserts, a vibrant city, where dreams are made real, stands against the blistering heat. Gagetzan is the capital city for the Gadgeteer Cartel, the largest of the goblin cartels.
+Rising out of the northern deserts, a vibrant city, where dreams are made real, stands against the blistering heat. Gagetzan is the capital city for business and trade.
 
-Some of the best goblin engineers, miners, and alchemists ply their trade here. The goblins here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
+Some of the best engineers, miners, and alchemists ply their trade here. The people here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
 
-All governments officially recognize goblin neutrality in the city, and for those who don't, the streets are heavily patrolled by goblin bruisers ready to pound to a pulp anyone disrupting their trade by instigating conflict.
+All governments officially recognize goblin neutrality in the city, and for those who don't, the streets are heavily patrolled by the bruisers of the City Watch, ready to pound to a pulp anyone disrupting their trade by instigating conflict.
 
-The **Gadgetzan Times** adventure module follows the characters as they try to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the rabble or any enemy of one of the gangs, anything is possible in Gadgetzan.
+The **Greetings from Gadgetzan** adventure module follows the characters as they try to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the rabble or any enemy of one of the ruling gangs, anything is possible in Gadgetzan, the City of Splendor.
 
 ### Timeline
 >**Goblin King Rises**
@@ -16,21 +16,49 @@ The **Gadgetzan Times** adventure module follows the characters as they try to n
 >The characters help a small frontier town resolve their goblin problem and inadvertently get involved with a much bigger threat.
 {.flowchart}
 
->**A Gadgetzan Welcome**
+>**The Mean Streets**
 {.text-center}
 >
->The characters meet Xanthar and are forced to help him expand his empire in order to repay their debts.
+>The characters meet Xanthar and are forced to help him expand his criminal empire in order to repay their debts.
 {.flowchart-with-link}
 
 >**Turf War Escalation**
 {.text-center}
 >
->A rival organization threatens Xanthar's gripe on the city of Gadgetzan and must be dealt with.
+>A rival organization threatens Xanthar's grip on the city of Gadgetzan and must be dealt with.
 {.flowchart-with-link}
 
 ## Background
 The bustling town of Gadgetzan has ushered in a new era of trade, but the city’s success has led to its unfortunate occupation by some rather unruly denizens, each with their own agendas. Crime families run the streets, each led by a powerful figurehead pulling the strings from the shadows.
 
-Nestled deep in the desert, the land-locked goblin town of Gadgetzan was a haven for shady dealings and rule-bending trade, its locals and visitors showing no favoritism toward any government body.
+Nestled deep in the desert, the port town of Gadgetzan was a haven for shady dealings and rule-bending trade, its locals and visitors showing no favoritism toward any government body outside its own.
 
 With the construction of its new port, trade boomed in Gadgetzan. The influx of trade stuffed the coffers of those on the ground floor of the development of new Gadgetzan. Everyone who was anyone wanted a piece of the action, using all the tricks up their sleeves to get the upper hand. Organized crime developed as the power struggle began to grow in the now bustling Gadgetzan—it was no longer the sleepy city it once was!
+
+## Life in Gadgetzan
+City-based adventures can be challenging to run. especially if your player characters are inclined to wander. Keeping the characters in Gadgetzan, where the action is, requires that they feel at home. To that end, here are some points to keep in mind:
+- Almost anything can be bought or sold in Gadgetzan. There's no need for adventurers to shop elsewhere.
+
+- Gadgetzanians generally hold adventurers in high regard, given that many of the city's most esteemed citizens are former adventurers and that the city has been saved countless times by adventurers over the years.
+
+- Adventurers who are invested in the city are less likely to want to leave it. As your players flesh out their characters' backgrounds, encourage them to establish roots in Gadgetzan. The adventure further invests the characters by awarding them property in the city and giving them opportunities to join local factions and guilds.
+
+### Breaking the Law
+Gadgetzan is a city of firm laws and swift justice. Adventurers hell-bent on slaughter and plunder won't fare well in the City of Splendors. The punishments for assault, arson, theft, and murder are severe, regardless of the reason for the crime.
+
+Characters who overtly engage in criminal behavior are quickly cornered and arrested by members of the City Watch. Those charged with committing a crime are brought before a magister to be judged. Advocates might intercede on behalf of the characters if they have allied themselves with influential NPCs and factions.
+
+Given how strictly laws are enforced in Gadgetzan, it's possible that the adventure could end with one or more of the characters being exiled, sentenced to several years of hard labor, imprisoned, or put to death. If that's how their adventure ends, so be it. Hopefully, your next group will fare better.
+
+### City Districts
+The city of Gadgetzan is organized into distrits. Each district has its own histories, traditions and services. Some services can only be found in certain districts and even then characters may need the help of friendly NPCs to introduce them to certain, seedier, markets.
+
+- **Govern District:** The Castle Ward is the heart and mind of Gadgetzan, if not its soul. It houses the city's military forces, courts, and government. Many other buildings in the district are given over to city business, including several courts for magisters and the barracks of the City Guard. So many of the ward's structures are offices and meeting halls for business owners, solicitors, publishers, and the like that the Govern District has the smallest resident population of all the districts.
+
+- **Northern District:** Nobles aplenty live in the North Ward, but the character of this ward is more peaceful than most other districts. Though it has taverns and shops to suit a variety of tastes, the tenor of the area tends toward reserved and polite. Most streets are lined with row houses inhabited by the families of prosperous people of business investing, and civic service. They are each wealthy enough to employ a servant or two, or they endeavor to appear as such.
+
+- **Southern District:** One can indulge in the finest halfling food here, enjoy the best singers of Calishite music, and examine the most stunning works of dwarveo crafting- but the first challenge is finding where these treats are housed. The Southern Ward has long been a district of laborers catering to travelers, so its folk have adopted the architectural custom of building homes and businesses above stables or around inn yards, near to where wagon trains are housed. The District hosts most of the traveling merchants who visit the city, and is made up of many enclaves, blocks, and streets primarily occupied by citizens who trace their ancestry to other realms.
+
+- **Trades District:** This ward bustles day and night with activity, both on the street and on balcony walkways that run the length of blocks and are sometimes layered five stories high. Shop signs appear to leap out from buildings, whose sides a replastered with advertisements all vying for the attention of the eye. Clothing stores, jewelry stores, perfumeries, flower shops, cake shops, taverns, cafes, inns, boarding schools, offices-as long as it's not illegal, you can find it in the Trades District. But if you are looking for something illegal, the Trades Ward is likely the place to get that too.
+
+- **Docks District:** Warehouses, poorhouses, and tenements dominate much of the area. Streets are steep throughout, and few have space alongside for pedestrians. Wandering through the ward can be a bewildering journey without a guide. Except in the immediate vicinity of the piers, shop signs and advertising of any kind are rare, and warehouses and other businesses often have no sign at all. You either know where you are going and have reason to be there- or you are lost, and a likely mark for pickpockets or worse. This is the area where most of Gadgetzan's poorest and hardest working reside.

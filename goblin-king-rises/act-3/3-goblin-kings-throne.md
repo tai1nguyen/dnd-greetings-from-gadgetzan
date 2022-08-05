@@ -46,4 +46,4 @@ Gilena gives them the key to the treasure room and informs them that her master,
 
 Gilena offers to transport the players back to town and allow them a day to get their affairs in order before she returns to retrieve them. Once in town the characters can inform Kensey of their successful mission. Kensey will reward the characters with 100 gold pieces and 6 potions of greater healing. She also hosts a small banquet in the characters' honor.
 
-In the morning Gilena returns to retrieve the player and they are teleported to Xanthar's safe house.
+In the morning Gilena returns to retrieve the characters and they are then teleported to one of Xanthar's safe houses, deep within the city of Gadgetzan.

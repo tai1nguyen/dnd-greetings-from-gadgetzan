@@ -1,10 +1,10 @@
 id: 1fd3a79c-7588-41ae-81d1-9bc94cbf75a4
-name: Gadgetzan Times
-slug: gadgetzan-times
+name: Greetings From Gadgetzan
+slug: greetings-from-gadgetzan
 description: An adventure exploring the organizations and gangs that infest the city of Gadgetzan.
 category: adventure
 author: Tai Nguyen
-code: gadgetzan
+code: gfg
 version: 1
 autoIncrementVersion: true
 cover: cover.jpg
