@@ -15,12 +15,12 @@ In the night a goblin sneaks into camp to rob the characters. The thief makes it
 | 3  | Weapon                    |
 | 4  | Gold pouch                |
 
->On a successful DC 12 passive Wisdom (Perception) check, the characters notice the goblin before it can rob them and the chase begins immediately.
+>On a successful DC 14 passive Wisdom (Perception) check, the characters notice the goblin before it can rob them and the chase begins immediately.
 
 ### The Hunt Begins
-As the goblin fled it left clues for the characters. Following the trail the characters catches a glimpse of the thief. Unfortunately, it also sees them and starts to dash away. So the hunt begins!
+As the goblin fled it left a trail for the characters. Following the trail the characters catches a glimpse of the thief. Unfortunately, it also sees them and starts to dash away. So the hunt begins!
 
-As the characters rush to catch up to the thief, roll on the following table to determine the compication and ability test needed to overcome for each character. On a success, that character is closer to catching the goblin. A character catches up to the goblin after 5 successes and loses the trail after 3 failures.
+As the characters rush to catch up to the thief, roll on the following table to determine the complication, difficulty class and ability check each characters need to overcome. On a success, that character is closer to catching the goblin. A character catches up to the goblin after 5 successes and loses the trail after 3 failures.
 
 | d20   | Type            | Complication                                                                                      | DC | Ability Test            |
 |-------|-----------------|---------------------------------------------------------------------------------------------------|----|-------------------------|
@@ -40,15 +40,15 @@ Whether or not the characters catch up to the goblin, they will arrive at a clea
 
 On a successful DC 14 passive Wisdom (Perception) check, the character realize that they are being watched from beyond the treeline.
 
-When the characters reach the center of the clearing the goblins in hiding will launch their attack. The exhausted goblin will retreat from combat.
+When the characters reach the center of the clearing, the goblins in hiding will launch their attack. The exhausted goblin will retreat from combat.
 
 >As goblins are much weaker than the average adventurer, it is highly recommended that these goblins outnumber the characters at least 2:1 once combat starts.
 >
 >Additionally, the goblins will retreat once more than half of them are slain.
 
 ### Conclusion
-The characters are able to retrieve their stolen gear and in the distance they find the goblin theif cowering in fear behind a knocked down tree.
+The characters are able to retrieve their stolen gear and in the distance they find the goblin thief cowering behind a knocked down tree.
 
-She introduces herself as Gnil. She is extremely scared and pleads with the characters to spare her life. She explains that her tribe was forced into joining the Goblin King's army. Her tribe are primarily foragers and they are not used to this method of war. Gnil goes on to say that her missions was to retrieve the gear left here by the raiding party and to take them to a nearby crypt for storage.
+She introduces herself as Gnil. She is extremely scared and pleads with the characters to spare her life. She explains that her tribe was forced into joining the Goblin King's army. Her people are primarily foragers and they are not used to this method of war. Gnil goes on to say that her mission is to retrieve the gear left here by the raiding party and to take them to a nearby crypt for storage.
 
->If the characters decide to kill Gnil they can find a scroll with orders from the Goblin King telling her to retrieve the stolen gear and a map with the location of the crypt marked.
+>If the characters decide to kill Gnil they can find a scroll with orders from the Goblin King telling her to retrieve the stolen gear and a map with the location of the crypt marked on it.

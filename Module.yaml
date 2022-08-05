@@ -1,10 +1,12 @@
 id: 1fd3a79c-7588-41ae-81d1-9bc94cbf75a4
-name: Goblin King's Rise
-slug: goblin-kings-rise
-description: An adventure exploring the rise of a goblin warlord.
+name: Gadgetzan Times
+slug: gadgetzan-times
+description: An adventure exploring the organizations that invest the city of Gadgetzan.
 category: adventure
 author: Tai Nguyen
 code: gkr
 version: 2
 auto-increment-version: true
 cover: cover.jpg
+ignore:
+  - README.md

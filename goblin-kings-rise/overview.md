@@ -1,4 +1,4 @@
-![Overview Page Cover](overview-page-cover.jpg){.size-cover}
+![Overview Page Cover](./refs/cover.jpg){.size-cover}
 
 # Introduction
 **Goblin King's Rise** is a short adventure following the growing attacks of a local goblin warlord. The party starts off in a small town helping the local townsfolk adapt to the growing goblin menace. The characters will slowly learn of the Goblin King's goal of establishing a goblinoid nation and that he aims to do so by conquering all towns in the local area. Eventually, things will culminate into an all-out war between the people and the Goblin King's armies.
@@ -7,7 +7,7 @@
 >**Act 1**
 {.text-center}
 >
->The town of Riverdale is under constant attack by goblins. The vile creatures have been pillaging the town and sacking it of its supplies and weapons for the past month or so. The characters assist Greg Thompson with recovering his stolen goods.
+>The town of Riverdale is under constant attack by goblins. The vile creatures have been pillaging the town and sacking for the past month or so. The characters assist with recovering what was stolen.
 {.flowchart}
 
 >**Act 2**
@@ -19,5 +19,5 @@
 >**Act 3**
 {.text-center}
 >
->The characters learn of the Goblin King's plans to conquer Riverdale and establish a free goblinoid nation. The characters and the townspeople of Riverdale prepare for a final confrontation with the Goblin King's forces.
+>The Goblin King prepares his forces for an assualt on Riverdale. The characters and townspeople prepare for the final confrontation.
 {.flowchart-with-link}
