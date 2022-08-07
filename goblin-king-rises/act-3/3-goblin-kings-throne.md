@@ -30,7 +30,7 @@ An ornate treasure chest sits at the back, near the eastern wall. Light shining 
 The chest is unlocked and it contains 500 gold pieces and a set of half plate armor.
 
 ### Map
-![Goblin Throne Room Map](../refs/map-goblin-throne-room.svg)
+![Goblin Throne Room Map](../../.references/maps/map-goblin-throne-room.svg)
 
 ### The Final Fight
 When combat starts Gilena moves to the back and simply observes.
@@ -40,9 +40,9 @@ Torg and his guards will charge the player immediately. The worg in the waiting 
 Once he is at half health Torg will disengage from the players. He will then spend an action to stomp his feet on the ground, causing the ceiling to come down on the characters. Characters must make a DC 12 Dexterity saving throw to avoid the damage. On a failed saving throw they take 3d6 bludgeoning damage. After this attack Torg will engage the characters again in melee.
 
 ### Conclusion
-After Torg's defeat, Gilena begrudgingly congratulates the characters. She tells them that the goblin forces here will disperse now that their almighty king has been slain. 
+After Torg's defeat, Gilena begrudgingly congratulates the characters. She tells them that the goblin forces here will disperse now that their almighty king has been slain.
 
-Gilena gives them the key to the treasure room and informs them that her master, Xanthar the All-Knowing, wishes to meet them. She makes it abundantly clear that it is not a request.
+Gilena gives them the key to the treasure room and informs them that her master, Xanthar the All-Knowing, wishes to meet them. She makes it abundantly clear that it is not a request. She reveals that Torg's success was all due to the support her organization has provided and now that he was dead, and there original plans ruined, the characters have incurred quite the debt.
 
 Gilena offers to transport the players back to town and allow them a day to get their affairs in order before she returns to retrieve them. Once in town the characters can inform Kensey of their successful mission. Kensey will reward the characters with 100 gold pieces and 6 potions of greater healing. She also hosts a small banquet in the characters' honor.
 

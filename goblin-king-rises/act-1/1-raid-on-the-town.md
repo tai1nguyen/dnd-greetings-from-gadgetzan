@@ -30,4 +30,4 @@ Before they can leave, townspeople return to cheer and offer thanks to the chara
 {.read}
 
 ### Map
-![Riverdale Town Map](../refs/map-riverdale.svg)
+![Riverdale Town Map](../../.references/maps/map-riverdale.svg)

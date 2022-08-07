@@ -49,14 +49,14 @@ The characters are flagged down by a citizen and is informed that Mayor Kensey i
 When the characters arrive, Kensey informs them that the fight has already begun and that she has already issued orders to the town's defenders. She passes her spyglass over to the characters. Read the description below to let the characters know how well, or poorly, the towns defenses are holding up to the goblin assualt.
 
 #### Town Defense Descriptions
-| Level | Description                                                                                                                                                                                          |
+| Defense Level | Description                                                                                                                                                                                          |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1-3   | Like water around stones the goblin forces are trickling through our defenses. It seems like nothing we have set up is able to halt their advance.                                                  |
 | 4-6   | The towns defenses are doing what they can to slow down the attacking forces. Despite this, it seems that the goblins are gaining ground at a steady pace and with a moderate amount of losses.                 |
 | 7-9+  | Looking at the streets and buildings, you can see that the time and money spent to improving the town's defenses are paying off. Each inch the goblin army takes is one paid for with blood, pain and death. |
 
 #### Townfolk Defense Descriptions
-| Level | Description                                                                                                                                                                                                                                                                                                   |
+| Defense Level | Description                                                                                                                                                                                                                                                                                                   |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1-3   | You look around the battlefield and see only pockets of resistance, the amount of time you spent training have had no effect. The people are disorganized and their defenses are in disarray. Morale can shatter at any moment.                                                                               |
 | 4-6   | The sound of swords clashing draws your gaze. A large group of townsfolk are currently engaged with the enemy. They are doing their best to recall their training, some are maintaining their formations well others are buckling from the might of the enemy and are retreating. The situation is tenuous and can go either way. |
@@ -70,7 +70,7 @@ As the characters make their way to the hill they are intercepted by a goblin ra
 >The raiding party can consistent of any number of goblinoid creatures. To make the fight more interesting and challenging feel free to include ogres as well.
 
 ### Battle for the Hill
-Upon reaching the base of the hill the characters are fired upon by four goblins who are positioned at the top and riding upon an ogre howdah. The characters can make out Gilena speaking to Ovlol, the hobgoblin commander, before vanishing.
+Upon reaching the base of the hill the characters are fired upon by four goblins who are positioned at the top and riding upon an ogre howdah. The characters can make out Gilena speaking to **Ovlol**, the hobgoblin commander, before vanishing.
 
 Several hobgoblins surround Ovlol and form a defensive perimeter. The character must succeed a DC 14 Dexterity (Arcobatics) check to avoid the goblin archers and make it up the hill unscathed. Any character that fails the check takes 2d4 piercing damage.
 

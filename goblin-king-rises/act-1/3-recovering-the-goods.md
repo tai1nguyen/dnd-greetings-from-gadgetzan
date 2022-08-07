@@ -84,7 +84,7 @@ The eastern door is stuck open and leads to the dinning hall (area 3).
 >A chest containing 3d10 gold pieces, 1d6 vials of acid, and 2 1d4 potions of healing is hidden under some blankets.
 
 ### Map
-![Goblin Storage Crypt Map](../refs/map-goblin-storage-crypt.svg)
+![Goblin Storage Crypt Map](../../.references/maps/map-goblin-storage-crypt.svg)
 
 ### Conclusion
 The characters have successfully routed and reclaimed all the stolen equipment stashed in the crypt. They may use the wagons left by the goblins to transport the bulk of the supplies back to town.

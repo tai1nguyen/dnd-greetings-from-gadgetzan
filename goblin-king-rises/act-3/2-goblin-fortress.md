@@ -37,7 +37,7 @@ This room smells of dung and beasts. Along the southern walls 3 large and empty 
 >Characters that beat a DC 12 passive Wisdom (Perception) check notices that the cleaver still has blood on it and following the blood trail they find a large lump of meat hidden under the table.
 
 ### Map
-![Goblin Fortress Map](../refs/map-goblin-fortress.svg)
+![Goblin Fortress Map](../../.references/maps/map-goblin-fortress.svg)
 
 ### Conclusion
-As the characters climb the staircase up to the throne room, they hear shouting and arguments. One voice is Gilena, calm and direct. The other is the Goblin King, Torg the ogre.
+As the characters climb the staircase up to the throne room, they hear shouting and arguments. One voice is Gilena, calm and direct. The other is the Goblin King, **Torg** the ogre.

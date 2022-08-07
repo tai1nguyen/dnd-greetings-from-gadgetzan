@@ -30,10 +30,10 @@ The beams of the tavern are falling apart and occasionally debris will fall to t
 ### 4. Inn
 Approaching the inn the characters can hear yelling coming from the inside. Before the characters can react a shambling mound bursts forth from the inn, engulfed in flames. The creature lashes out at the nearest character.
 
-After the creature is defeated, Krel, the goblin exile, appears from behind an overturned table and greets the player. He looks hurt but is happy to see them.
+After the creature is defeated, **Krel**, the goblin exile, appears from behind an overturned table and greets the player. He looks hurt but is happy to see them.
 
 ### Map
-![Mining Town Map](../refs/map-mining-town.svg)
+![Mining Town Map](../../.references/maps/map-mining-town.svg)
 
 ### Conclusion
 Krel thanks the characters profusely for saving his life and for defeating the shambling mound. He warns them that the commotion of the fight will have attracted the attention of the hunters tasked with killing him. Krel asks the characters to protect him and that if they can get him safely back to town he will help them take down the Goblin King.

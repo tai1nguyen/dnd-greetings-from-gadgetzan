@@ -1,5 +1,5 @@
-name: Maps
-slug: gkr-refs
+name: References
+slug: references
 order: 1
 include-in: files
 copy-files: true
