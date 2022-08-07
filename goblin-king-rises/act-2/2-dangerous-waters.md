@@ -12,7 +12,7 @@ If the characters do not notice the slippery rocks, they must succeed on a DC 12
 
 The river is flowing fast enough that any creature without a swimming speed who falls in must succeed on a DC 10 Strength saving throw or be swept 60 feet downriver. Such a creature in the river can spend its action to make a DC 10 Strength (Athletics) check. On a success, the creature can reduce the distance traveled by the amount of its walking speed and move toward a bank. On a failed check, the creature must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion.
 
-**Lurkers.** Lurking in the river are four **giant frogs**, two of which are 30 feet upriver of the rocks and two are 90 feet downriver. A character with a passive Wisdom (Perception) score of 16 or higher sees the frogs upriver.
+Lurking in the river are four **giant frogs**, two of which are 30 feet upriver of the rocks and two are 90 feet downriver. A character with a passive Wisdom (Perception) score of 16 or higher sees the frogs upriver.
 
 >A frog that successfully attacks a target with its bite automatically grapples the character. After they succeed on the bite the frog pulls the character in the water. This may cause the giant frog to be subject to an attack of opportunity by adjacent characters.
 
