@@ -8,9 +8,9 @@ The characters meet Kensey at her home and deliver the news. Kensey informs them
 She asks the characters to please spend time training the townspeople for combat in the coming days. Any expenses they incur will be forgiven.
 
 ### Training the People
-The goblins will attack in three days. Generally the more money the players spend to train the people the better they will do in defending their home. However, the town itself also needs to be repaired and prepped. Each day the characters are limited to spending 300 gold pieces and must prioritize their spending.
+The goblins will attack in three days. Generally the more money the players spend to train the people the better they will do in defending their home. However, the town itself also needs to be repaired and prepped. Each day the characters are limited to spending 300 gp and must prioritize their spending.
 
-Reference the tables below to determine the amount of levels the townspeople or the town gains per gold spent.
+Reference the tables below to determine the amount of levels the townspeople or the town gains per gp spent.
 
 #### Townsfolk Trainings
 | GP  | Training         | Level |

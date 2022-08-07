@@ -27,7 +27,7 @@ In the center of the room is a large worg. A chandelier hangs from the ceiling i
 ### 3. Treasure Room
 An ornate treasure chest sits at the back, near the eastern wall. Light shining from the slits in the walls catches on the gold plating of the chest causing it to sparkle.
 
-The chest is unlocked and it contains 500 gold pieces and a set of half plate armor.
+The chest is unlocked and it contains 500 gp and a set of half plate armor.
 
 ### Map
 ![Goblin Throne Room Map](../../.references/maps/map-goblin-throne-room.svg)
@@ -44,6 +44,6 @@ After Torg's defeat, Gilena begrudgingly congratulates the characters. She tells
 
 Gilena gives them the key to the treasure room and informs them that her master, Xanthar the All-Knowing, wishes to meet them. She makes it abundantly clear that it is not a request. She reveals that Torg's success was all due to the support her organization has provided and now that he was dead, and there original plans ruined, the characters have incurred quite the debt.
 
-Gilena offers to transport the players back to town and allow them a day to get their affairs in order before she returns to retrieve them. Once in town the characters can inform Kensey of their successful mission. Kensey will reward the characters with 100 gold pieces and 6 potions of greater healing. She also hosts a small banquet in the characters' honor.
+Gilena offers to transport the players back to town and allow them a day to get their affairs in order before she returns to retrieve them. Once in town the characters can inform Kensey of their successful mission. Kensey will reward the characters with 100 gp and 6 potions of greater healing. She also hosts a small banquet in the characters' honor.
 
 In the morning Gilena returns to retrieve the characters and they are then teleported to one of Xanthar's safe houses, deep within the city of Gadgetzan.

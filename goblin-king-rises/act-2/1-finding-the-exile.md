@@ -23,9 +23,9 @@ The tavern has seen better days, its front door is hanging haphazardly on its hi
 
 The beams of the tavern are falling apart and occasionally debris will fall to the ground. As characters move around they must succeed a DC 12 Dexterity (Acrobatics) check or take 1d6 bludgeoning damage.
 
->Behind the counter is a hidden safe, characters discover it if they succeed a DC 12 Wisdom (Investigation) check. The safe can be forced open by succeeding a DC 14 Strength (Athletics) check or picked open with successful DC 14 Dexterity check.
->
->The chest contains 50 gold pieces, 25 silver pieces, rope, and a dagger.
+Behind the counter is a hidden safe, characters discover it if they succeed a DC 12 Wisdom (Investigation) check. The safe can be forced open by succeeding a DC 14 Strength (Athletics) check or picked open with successful DC 14 Dexterity check.
+
+The chest contains 50 gp, 25 sp, rope, and a dagger.
 
 ### 4. Inn
 Approaching the inn the characters can hear yelling coming from the inside. Before the characters can react a shambling mound bursts forth from the inn, engulfed in flames. The creature lashes out at the nearest character.

@@ -29,10 +29,6 @@ On a successful DC 14 passive Wisdom (Perception) check, the character realize t
 
 When the characters reach the center of the clearing, the goblins in hiding will launch their attack. The exhausted goblin will retreat from combat.
 
->As goblins are much weaker than the average adventurer, it is highly recommended that these goblins outnumber the characters at least 2:1 once combat starts.
->
->Additionally, the goblins will retreat once more than half of them are slain.
-
 ### Conclusion
 The characters are able to retrieve their stolen gear and in the distance they find the goblin thief cowering behind a knocked down tree.
 

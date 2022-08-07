@@ -29,12 +29,12 @@ To the east is a locked wooden door. It can be unlocked by succeeding a DC 14 De
 ### 2. Hall to the Throne Room
 The room is lit by two torches on both the eastern and wastern walls. Two worgs sleep in front of the stairs. The worgs wake if any player steps on a spike trap or otherwise creates any loud noises.
 
->Characters are able to sneak past the worgs if they succeed on a DC 14 Dexterity (Stealth) check. Alternatively, the characters may keep the worgs occupied long enough to move past it if they have a large amount of meat or food on them.
+Characters are able to sneak past the worgs if they succeed on a DC 14 Dexterity (Stealth) check. Alternatively, the characters may keep the worgs occupied long enough to move past it if they have a large amount of meat or food on them.
 
 ### 3. Worg Pens
 This room smells of dung and beasts. Along the southern walls 3 large and empty cages sit with their gates opened. Bones litter the room and in the corner to the east there is a table with a meat cleaver stuck in it. On the table the characters can find a key to the locked door in the main hall (area 1).
 
->Characters that beat a DC 12 passive Wisdom (Perception) check notices that the cleaver still has blood on it and following the blood trail they find a large lump of meat hidden under the table.
+Characters that beat a DC 12 passive Wisdom (Perception) check notices that the cleaver still has blood on it and following the blood trail they find a large lump of meat hidden under the table.
 
 ### Map
 ![Goblin Fortress Map](../../.references/maps/map-goblin-fortress.svg)
