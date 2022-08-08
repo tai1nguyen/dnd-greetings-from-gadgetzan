@@ -13,13 +13,13 @@ The **Greetings from Gadgetzan** adventure module follows the characters as they
 >**Goblin King Rises**
 {.text-center}
 >
->The characters help a small frontier town resolve their goblin problem and inadvertently get involved with a much bigger threat.
+>The characters help a small frontier town defend against a growing goblin threat.
 {.flowchart}
 
 >**The Mean Streets**
 {.text-center}
 >
->The characters meet Xanthar and are forced to help him expand his criminal empire in order to repay their debts.
+>Upon defeating the Goblin King, Torg, it is revealed that Xanthar had been supporting him in from the shadows. The Crime Lord is not pleased when he learned that his investment was cut, quite literally, short. Now in debt, the characters are forced to assist Xanthar and his organization.
 {.flowchart-with-link}
 
 >**Turf War Escalation**

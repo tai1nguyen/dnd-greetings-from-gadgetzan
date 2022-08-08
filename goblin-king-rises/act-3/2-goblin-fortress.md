@@ -1,5 +1,5 @@
 ## Goblin Fortress
-The characters lead a band of fighters from Riverdale, following the map given to them by Krel, they arrive just beyond the perimeter of the goblin king's compound. The goblin's fortress has been repurposed from an old fort that had be ruined in a war from ages past. They have only recently begun to use it as a base and as such most of the rooms and halls are still inaccessible.
+The characters lead a band of fighters from Riverdale, following the map given to them by Krel, they arrive just beyond the perimeter of the Goblin King's compound. The goblin's fortress has been repurposed from an old fort that had be ruined in a war from ages past. They have only recently begun to use it as a base and as such most of the rooms and halls are still inaccessible.
 
 Greg Thompson decides to act as a distraction to allow the characters easier access into the fortress.
 

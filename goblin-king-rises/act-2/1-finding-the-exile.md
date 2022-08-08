@@ -1,5 +1,5 @@
 ## Finding the Exile
-The characters seek out a goblin exile for more information on the goblin king and his plans. Their search takes them to an abandoned mining town. The mine has been closed due to cave-ins in the past. There are three buildings still standing and the rest of the homes in town have been weathered down to rubble.
+The characters seek out a goblin exile for more information on the Goblin King and his plans. Their search takes them to an abandoned mining town. The mine has been closed due to cave-ins in the past. There are three buildings still standing and the rest of the homes in town have been weathered down to rubble.
 
 The general store, tavern, and inn are all situated around the town plaza. they are all in varying stages of rot and decay.
 

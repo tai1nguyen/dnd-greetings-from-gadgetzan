@@ -79,4 +79,4 @@ Several hobgoblins surround Ovlol and form a defensive perimeter. The character 
 >Ovlol will support his minions as best as he can and will only enter into melee combat once half his hobgoblins are defeated.
 
 ### Conclusion
-Once Ovlol is defeated, the remaining goblin forces will route and retreat into the surrounding woods. Kensey meets up with the characters and congratulates them on a job well done. With this defeat the Goblin King's army is now in disarray. She believes that it would be best to press the attack and finish the job. Kensey wants to take the fight to the goblin king first thing in the morning.
+Once Ovlol is defeated, the remaining goblin forces will route and retreat into the surrounding woods. Kensey meets up with the characters and congratulates them on a job well done. With this defeat the Goblin King's army is now in disarray. She believes that it would be best to press the attack and finish the job. Kensey wants to take the fight to the Goblin King first thing in the morning.
