@@ -20,7 +20,7 @@ In the night a goblin sneaks into camp to rob the characters. The thief makes it
 ### The Hunt Begins
 As the goblin fled it left a trail for the characters. Following the trail the characters catches a glimpse of the thief. Unfortunately, it also sees them and starts to dash away. So the hunt begins!
 
-As the characters rush to catch up to the thief, roll on the [chase complications table](../../.references/tables/chase-complications.md) to determine the complication, difficulty class and ability check each characters need to overcome. On a success, that character is closer to catching the goblin. A character catches up to the goblin after 5 successes and loses the trail after 3 failures.
+As the characters rush to catch up to the thief, roll on the [chase complications table](../../references/tables/chase-complications.md) to determine the complication, difficulty class and ability check each characters need to overcome. On a success, that character is closer to catching the goblin. A character catches up to the goblin after 5 successes and loses the trail after 3 failures.
 
 ### Resolving the Chase
 Whether or not the characters catch up to the goblin, they will arrive at a clearing and on the ground in the center will be their stolen equipment. The goblin they have been chasing is exhausted and cannot run anymore. It is catching its breath admist a pile of the characters' possessions.

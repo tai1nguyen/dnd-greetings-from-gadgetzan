@@ -4,3 +4,6 @@ A small tiefling child stumbles into the tavern after closing time. She timidly 
 ### Hook
 >TBD
 {.read}
+
+### Map
+![Dock District Sewers Map](../../references/maps/map-dock-district-sewers.svg)

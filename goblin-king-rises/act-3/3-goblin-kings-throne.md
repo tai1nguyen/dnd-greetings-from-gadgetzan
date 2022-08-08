@@ -30,7 +30,7 @@ An ornate treasure chest sits at the back, near the eastern wall. Light shining 
 The chest is unlocked and it contains 500 gp and a set of half plate armor.
 
 ### Map
-![Goblin Throne Room Map](../../.references/maps/map-goblin-throne-room.svg)
+![Goblin Throne Room Map](../../references/maps/map-goblin-throne-room.svg)
 
 ### The Final Fight
 When combat starts Gilena moves to the back and simply observes.

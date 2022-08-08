@@ -1,5 +1,3 @@
-![Overview Page Cover](../.references/images/tms-cover.jpg){.size-cover}
-
 # Introduction
 After forcibly relocating to the busy port city of Gadgetzan, with the help of Xanthar, the characters attempt to earn a steady income and eventually repay their debts.
 

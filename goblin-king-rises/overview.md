@@ -1,4 +1,4 @@
-![Overview Page Cover](../.references/images/gkr-cover.jpg){.size-cover}
+![Overview Page Cover](../references/images/gkr-cover.jpg){.size-cover}
 
 # Introduction
 A small frontier town is under increasingly more frequent attacks by local goblin forces. Unable to handle the situation themselves, they employ the characters to help discover the reason behind the goblins' aggressive stance and who, if anyone, is organizing them.

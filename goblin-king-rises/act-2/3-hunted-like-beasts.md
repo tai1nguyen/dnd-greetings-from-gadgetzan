@@ -13,7 +13,7 @@ After the encounter with Krekud (or perhaps while he still travels with the char
 ### Wild Chase
 **Madeg**, **Rorz**, **Zagrorg**, and **Verdag**, four Beast Trapper Clan members shoot warning arrows at the characters when they are 300 feet away. This force then charges toward the characters. They are likely too strong for the characters to take head-on, so make that clear.
 
-As the characters flee, use the [chase complications table](../../.references/tables/chase-complications.md) to determine the complication, difficulty class and ability test needed to be overcome by each character. On a success, that particular character is closer to escaping the clan. The characters escape once a character succeeds 5 complications and are caught once a character has failed 3.
+As the characters flee, use the [chase complications table](../../references/tables/chase-complications.md) to determine the complication, difficulty class and ability test needed to be overcome by each character. On a success, that particular character is closer to escaping the clan. The characters escape once a character succeeds 5 complications and are caught once a character has failed 3.
 
 ### Confronting the Hunters
 After losing many members of his clan to the characters, Duzurg, a one-eyed hobgoblin with 150 hit points, approaches them with his worg. Duzurg asks them to pick their most formidable warrior to battle him one-on-one to the death. If he loses, the Beast Tracker clan will stop hunting the characters. If the character loses, Duzurg will take that loss as retribution for his lost clan members and cease the hunt.
