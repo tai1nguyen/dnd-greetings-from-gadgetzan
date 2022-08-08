@@ -16,7 +16,7 @@ Lurking in the river are four **giant frogs**, two of which are 30 feet upriver 
 
 >A frog that successfully attacks a target with its bite automatically grapples the character. After they succeed on the bite the frog pulls the character in the water. This may cause the giant frog to be subject to an attack of opportunity by adjacent characters.
 
-### Conclusion
+## Conclusion
 The characters successfully cross the river and continue on their way.
 
 >Downstream remnants of the frogs past victims can be found with a successful DC 12 Intelligence (Investigation) check. The treasure includes 50 gp worth of mundane equipment and a pouch with 25 gp and 30 sp.

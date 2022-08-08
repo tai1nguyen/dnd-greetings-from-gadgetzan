@@ -39,5 +39,5 @@ Characters that beat a DC 12 passive Wisdom (Perception) check notices that the 
 ### Map
 ![Goblin Fortress Map](../../references/maps/map-goblin-fortress.svg)
 
-### Conclusion
+## Conclusion
 As the characters climb the staircase up to the throne room, they hear shouting and arguments. One voice is Gilena, calm and direct. The other is the Goblin King, **Torg** the ogre.

@@ -27,5 +27,5 @@ If the characters decide to wait till night time to investigate the construction
 
 After several minutes, Whester will get impatient with the creature and will begin to openly taunt it. The noise will draw in the gargoyle that has been attacking his crew.
 
-### Conclusion
+## Conclusion
 Whester will thank the characters for helping him get rid of the gragoyle harrassing his team. He offers to help the characters fix up or make additions to their tavern at a discounted price.

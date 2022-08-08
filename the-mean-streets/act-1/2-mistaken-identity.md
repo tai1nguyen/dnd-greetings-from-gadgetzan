@@ -23,7 +23,7 @@ At this point the characters should run. If they wait for the City Watch to arri
 ### On the Run
 As the characters flee, use the [chase complications table](../../references/tables/chase-complications.md) to determine the complication, difficulty class and ability test needed to be overcome by each character. On a success, that particular character is closer to losing the tax collector. The characters escape once a character succeeds 5 complications and are caught once a character has failed 3.
 
-### Conclusion
+## Conclusion
 If the characters escape they meet up back at the Rusty Mug and enjoy a round of beer. Otherwise, if a character has been caught, they will be taken down to the Govern District and charged with tax evasion. They will are released and return to the tavern a little bit after the other characters.
 
 Regardless of the outcome, the characters failed to restock the tavern's meat and will have to do so some other day.

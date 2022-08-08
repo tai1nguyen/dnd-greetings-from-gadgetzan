@@ -29,7 +29,7 @@ On a successful DC 14 passive Wisdom (Perception) check, the character realize t
 
 When the characters reach the center of the clearing, the goblins in hiding will launch their attack. The exhausted goblin will retreat from combat.
 
-### Conclusion
+## Conclusion
 The characters are able to retrieve their stolen gear and in the distance they find the goblin thief cowering behind a knocked down tree.
 
 She introduces herself as Gnil. She is extremely scared and pleads with the characters to spare her life. She explains that her tribe was forced into joining the Goblin King's army. Her people are primarily foragers and they are not used to this method of war. Gnil goes on to say that her mission is to retrieve the gear left here by the raiding party and to take them to a nearby crypt for storage.

@@ -34,5 +34,5 @@ Xanthar will call upon the characters when he has a need for them and advises th
 
 >The characters cannot defeat Xanthar in combat. Any fight will end in them being locked in his dungeon, where he will once again attempt to force them into his services.
 
-### Conclusion
+## Conclusion
 Xanthar sees the characters as an investment and has provided them with a humble start to paying him back.

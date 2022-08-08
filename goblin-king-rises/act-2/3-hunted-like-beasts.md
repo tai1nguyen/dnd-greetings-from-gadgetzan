@@ -20,7 +20,7 @@ After losing many members of his clan to the characters, Duzurg, a one-eyed hobg
 
 If the characters do not agree, both Duzurg and his worg attack. If they agree and a champion is chosen, the hobgoblins follow the terms of the deal. If a character other than the chosen warrior participates in the battle in any way, the deal is broken and both Duzurg and his worg try to kill all the characters. A successful DC 15 Charisma (Deception) check allows a character to subtly help the champion without the hobgoblin noticing – such as casting a healing spell.
 
-### Conclusion
+## Conclusion
 The characters escape the Beast Trapper clan and arrive at the outskirts of the town. They are exhausted but push on to get Krel to safety. Unfortunately, Krel stumbles and reveals that he has been wounded by the Beast Trapper clan during their escape. The wound was made with necrotic energies and cannot be healed by normal means.
 
 Krel thanks the characters and tells them that he knows that they had a hand in clearing out the goblins storage crypt. He warns that the Goblin King will be planning to attack the town as soon as possible in order to save face and maintain his position as sovereign. Krel advises that the characters head back to town and help prepare their whatever defenses they can.

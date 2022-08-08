@@ -35,7 +35,7 @@ After the creature is defeated, **Krel**, the goblin exile, appears from behind 
 ### Map
 ![Mining Town Map](../../references/maps/map-mining-town.svg)
 
-### Conclusion
+## Conclusion
 Krel thanks the characters profusely for saving his life and for defeating the shambling mound. He warns them that the commotion of the fight will have attracted the attention of the hunters tasked with killing him. Krel asks the characters to protect him and that if they can get him safely back to town he will help them take down the Goblin King.
 
 Along the journey back, the characters may ask Krel for more information on the Goblin King. Krel will explain that he had been exiled from the Goblin Kings royal court for disagreeing with his plans for a "civilized" goblin society. He goes on to explain that the Goblin King seeks to take over Riverdale and use it as the foundation for his kingdom. He plans to continue taking over more and more settlements until his goblin kingdom rivals that of man.

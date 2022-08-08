@@ -17,7 +17,7 @@ There are 8 other townspeople in the inn with the characters and on their turn t
 
 >The goblins outnumber the characters 2:1. The goblins will attempt to keep a distance and use ranged attacks against the characters as often as possible. They will flee once more than half of them have been eliminated.
 
-### Conclusion
+## Conclusion
 If Greg Thompson is still alive, he thanks the characters for helping and asks if they would help return his stolen tools and weapons. He provides everyone with the location he believes the goblins have taken his goods to, an abandoned crypt deep in the woods. Greg makes it abundantly clear that without these weapons it would be impossible for the town to prepare and mount any defense against future attacks. If Greg is dead, the players can find a note about the potential location of his property on his corpse or on the corpse of a slain goblin.
 
 Before they can leave, townspeople return to cheer and offer thanks to the characters. Admist the cheering, the characters hear a voice in their ears but when the characters look around they do not see anything or anyone suspicous.

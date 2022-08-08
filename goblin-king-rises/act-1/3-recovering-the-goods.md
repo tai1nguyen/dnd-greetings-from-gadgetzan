@@ -82,7 +82,7 @@ A chest containing 3d10 gp, 1d6 vials of acid, and 2 1d4 potions of healing is h
 ### Map
 ![Goblin Storage Crypt Map](../../references/maps/map-goblin-storage-crypt.svg)
 
-### Conclusion
+## Conclusion
 The characters have successfully routed and reclaimed all the stolen equipment stashed in the crypt. They may use the wagons left by the goblins to transport the bulk of the supplies back to town.
 
 If the characters decide to leave the crypt without any equipment and opt to return to town for assistance, when they return the majority of the items in the crypt will have been looted by the goblins or some other creature.
