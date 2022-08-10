@@ -38,9 +38,9 @@ In addition to nonmagical herbal remedies, Fala sells potions of the types liste
 | Potion of water breathing   | 250 gp |
 
 ### The Private Eye
-This private detective's business is unremarkable on the outside, its only distinguishing mark an orange-and-black sign featuring a cat's eye. Inside is a regal apartment dimly lit by flickering oil lamps. The door is locked, and visitors must knock or ring the bell before being let in.
+This private detective's business is unremarkable on the outside, its only distinguishing mark an black-and-white sign featuring an ominous eye. Inside is a regal apartment dimly lit by flickering oil lamps. The door is locked, and visitors must knock or ring the bell before being let in.
 
-They are met by **Vincent Trench**, a human detective and the owner of the Tiger's Eye. He speaks concisely, dresses in a sharp suit, and smokes a slim pipe.
+They are met by **Vincent Trench**, a goblin detective and the owner of the Private Eye. He speaks concisely, dresses in a sharp suit, and smokes a slim pipe.
 
 #### Services
 Trench can discover any secret in Waterdeep, for a fee. Use your judgment when pricing his services; 50 gp is sufficient for most investigations, but if the characters want to learn secrets relating to the major antagonists of this adventure, the man might require a service in payment, such as slaying enemies that are hunting him, posting advertisements for his business in their tavern, or keeping tabs on someone Vincent has been hired to spy on.
