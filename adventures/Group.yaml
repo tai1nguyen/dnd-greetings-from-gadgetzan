@@ -1,0 +1,5 @@
+name: Adventures
+slug: adventures
+order: 2
+include-in: files
+copy-files: true
